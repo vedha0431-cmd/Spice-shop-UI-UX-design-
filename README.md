@@ -49,11 +49,6 @@ AnjaraiPetti is a mobile app UI/UX design concept for an e-commerce platform tha
 
 ---
 
-## 📸 Preview
-![Alt Text](<img src="blob:chrome-untrusted://media-app/992b6878-a894-473b-99b6-d3a2a65cb786" alt="img.png"/>) 
-
----
-
 ## 💡 Future Improvements
 - User reviews & ratings  
 - Personalized recommendations  
